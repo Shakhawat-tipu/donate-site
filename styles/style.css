@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+/* header section */
+.header{
+    background-image: url(/assets/images/donation1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: white;
+    text-align: center;
+}
+.header h1{
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+.header-desc{
+    padding-bottom: 30px;
+}
+.primary-btn{
+    background-color: rgba(253, 10, 10, 0.9);
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin-bottom: 100px;
+}
